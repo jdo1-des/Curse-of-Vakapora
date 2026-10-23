@@ -1,4 +1,4 @@
-# Unnamed-Roblox-Horror-Game
+# Curse of Vakapora
 A currently unnamed roblox horror game I am making. The premise is you live on a peacful street, until one day a mysterious nieghbour moves in. The goal is to survive the night, by keeping your house secure and not letting it find you.
 
 # Progress
